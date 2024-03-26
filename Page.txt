@@ -1,0 +1,5 @@
+hadoop is a big data framework
+hadoop can store vast data
+hadoop processes big data
+hadoop can analyze vast data
+hadoop is easy
